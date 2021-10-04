@@ -2,7 +2,7 @@
 def get_count(sentence):
     count = 0
     for letter in sentence:
-        print(letter)
+        #print(letter)
         if letter == 'a' or letter =='e' or letter == 'i' or letter == 'o' or letter == 'u':
             count += 1
         else:
