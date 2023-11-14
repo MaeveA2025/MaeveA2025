@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ethan Abbate, I'm a 2nd year at RIT and currently studying software engineering BS
+- 👋 Hi, I’m Ethan Abbate, I'm a 3rd year at RIT and currently studying software engineering BS
 - 👀 I’m interested in Python, Java, C, C++ and SQL
 - 🌱 I’m currently learning SQL and project Management
 - 💞️ I’m looking to collaborate on new and exciting coding projects
